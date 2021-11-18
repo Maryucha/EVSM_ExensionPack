@@ -1,0 +1,45 @@
+{
+    "name": "evsm-extensionpack",
+    "displayName": "EVSM_ExtensionPack",
+    "description": "Pacote de extensões utilizadas para gestão de padrão de projeto no sistema EVSM 4.0 desenvolvido pela Certi",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "john-crowson.angular-file-changer",
+        "alexiv.vscode-angular2-files",
+        "1tontech.angular-material",
+        "cyrilletuzi.angular-schematics",
+        "shd101wyy.markdown-preview-enhanced",
+        "mohd-akram.vscode-html-format",
+        "coenraads.bracket-pair-colorizer-2",
+        "formulahendry.auto-rename-tag",
+        "steoates.autoimport",
+        "formulahendry.auto-close-tag",
+        "infinity1207.angular2-switcher",
+        "segerdekort.angular-cli",
+        "johnpapa.angular2",
+        "gruntfuggly.todo-tree"
+    ],
+    "publisher": "EvsmExtensionPack",
+    "icon": "certi-logo.png",
+    "galleryBanner": {
+      "color": "#030518",
+      "theme": "dark"
+    },
+    "keywords": [
+      "angular",
+      "typescript",
+      "html",
+      "css",
+      "styled-components"
+    ],
+    "repository": {
+      "url": "https://github.com/Maryucha/EVSM_ExensionPack"
+    },
+    "homepage": "https://github.com/Maryucha/EVSM_ExensionPack"
+}
